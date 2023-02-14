@@ -1,1 +1,2 @@
-# Airbnb-Reinigungsservice-Leipzig
+# Airbnb Reinigungsservice Leipzig
+A June 2022 NerdWallet analysis of 1,000 U.S. [Airbnb Reinigungsservice Leipzig](https://hostproperly.de) with check-in dates in 2022 or 2023 found that the median cleaning fee per listing for a one-night stay was $75. For larger properties or hosts who hire cleaning help, this cost can increase to approximately $105. Most hosts pass on the cost of cleaning their rental properties to their guests as part of the rental fee. This charge isn't meant to profit from, but rather, to reimburse you for the cost of hiring a cleaning service, supplies, and/or your time to clean the rental yourself.
